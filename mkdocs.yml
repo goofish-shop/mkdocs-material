@@ -1,3 +1,2 @@
 theme:
-  palette:
-    scheme: default
+  name: material
